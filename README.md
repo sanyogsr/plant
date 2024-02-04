@@ -11,9 +11,9 @@ These are some images of app
 ![Alt text](./assets/images/plant-three.png.png) -->
 
 <p >
-  <img src="./assets/images/plant-one.png" width="30%" />
-  <img src="./assets/images/plant-two.png" width="40%" />
-  <img src="./assets/images/plant-three.png" width="30%" />
+  <img src="./assets/images/plant-one.png" width="20%" />
+  <img src="./assets/images/plant-two.png" width="20%" />
+  <img src="./assets/images/plant-three.png" width="20%" />
 </p>
 
 <!-- This project is a starting point for a Flutter application. -->
