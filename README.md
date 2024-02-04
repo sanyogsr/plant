@@ -5,13 +5,16 @@ A new Flutter project.
 ## Getting Started
 
 These is just an onBoarding screen of app
-![App Demo Video](./plant.mp4)
 
+<!-- ![App Demo Video](./plant.mp4) -->
+<video width="320" height="240" controls>
+  <source src="./plant.mp4" type="video/mp4">
+</video>
 
 <!-- ![Alt text](./assets/images/plant-one.png.png)
 ![Alt text](./assets/images/plant-two.png.png)
 ![Alt text](./assets/images/plant-three.png.png) -->
-<!-- 
+<!--
 <p >
   <img src="./assets/images/plant-one.png" width="20%" />
   <img src="./assets/images/plant-two.png" width="20%" />
@@ -21,10 +24,6 @@ These is just an onBoarding screen of app
 <!-- This project is a starting point for a Flutter application. -->
 
 A few resources to get you started if this is your first Flutter project:
-
-
-
-
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
