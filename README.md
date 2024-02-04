@@ -5,10 +5,16 @@ A new Flutter project.
 ## Getting Started
 
 These are some images of app
-![Alt text](./assets/images/plant-one.png.png)
-![Alt text](./assets/images/plant-two.png.png)
-![Alt text](./assets/images/plant-three.png.png)
 
+<!-- ![Alt text](./assets/images/plant-one.png.png)
+![Alt text](./assets/images/plant-two.png.png)
+![Alt text](./assets/images/plant-three.png.png) -->
+
+<p align="center">
+  <img src="./assets/images/plant-one.png.png" width="30%" />
+  <img src="./assets/images/plant-two.png" width="30%" />
+  <img src="./assets/images/plant-three.png.png" width="30%" />
+</p>
 
 This project is a starting point for a Flutter application.
 
