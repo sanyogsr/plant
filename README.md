@@ -7,7 +7,7 @@ A new Flutter project.
 These is just an onBoarding screen of app
 
 <!-- ![App Demo Video](./plant.mp4) -->
-<video width="320" height="240" controls>
+<video  controls>
   <source src="./plant.mp4" type="video/mp4">
 </video>
 
