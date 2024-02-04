@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 These is just an onBoarding screen of app
-![App Demo Video](./plant.mp4.mp4)
+![App Demo Video](./plant.mp4)
 
 
 <!-- ![Alt text](./assets/images/plant-one.png.png)
